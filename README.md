@@ -1,0 +1,2 @@
+# wakayama_engineer_group
+和歌山を拠点とするエンジニアグループ
